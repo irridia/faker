@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/irridia/faker"
+	"github.com/irridia/faker/v3"
 )
 
 // Gondoruwo ...

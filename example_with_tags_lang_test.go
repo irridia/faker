@@ -3,7 +3,7 @@ package faker_test
 import (
 	"fmt"
 
-	"github.com/irridia/faker"
+	"github.com/irridia/faker/v3"
 )
 
 // You can set length for your random strings also set boundary for your integers.

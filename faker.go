@@ -13,7 +13,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/irridia/faker/support/slice"
+	"github.com/irridia/faker/v3/support/slice"
 )
 
 var (
